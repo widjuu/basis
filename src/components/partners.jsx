@@ -17,7 +17,7 @@ export const Partners = (props) => {
                     className="col-sm-3 col-md-3 col-lg-3"
                   >
                     <div className="portfolio-item hover-bg">
-                      {/* <ModalImage small={d.link} large={d.link} alt={d.title} />*/}
+                      <ModalImage small={d.link} large={d.link} alt={d.title} />
                       <p>{d.title}</p>
                       <div>{d.text}</div>
                     </div>

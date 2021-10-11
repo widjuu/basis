@@ -134,6 +134,22 @@ const data = {
       title: "Поиск",
       text: "",
     },
+
+    {
+      link: process.env.PUBLIC_URL + "/img/ant.jpg",
+      title: "Ант",
+      text: "",
+    },
+    {
+      link: process.env.PUBLIC_URL + "/img/rempromservis.jpg",
+      title: "Ремпромсервис",
+      text: "",
+    },
+    {
+      link: process.env.PUBLIC_URL + "/img/informservis.jpg",
+      title: "Информсервис",
+      text: "",
+    },
   ],
 };
 
